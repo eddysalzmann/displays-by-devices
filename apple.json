@@ -1,0 +1,178 @@
+{
+  "iPhone": [
+    {
+      "model": "iPhone",
+      "display_type": "3.5-inch LCD",
+      "year": 2007,
+      "battery_type": "Built-in rechargeable lithium-ion"
+    },
+    {
+      "model": "iPhone 3G",
+      "display_type": "3.5-inch LCD",
+      "year": 2008,
+      "battery_type": "Built-in rechargeable lithium-ion"
+    },
+    {
+      "model": "iPhone 3GS",
+      "display_type": "3.5-inch LCD",
+      "year": 2009,
+      "battery_type": "Built-in rechargeable lithium-ion"
+    },
+    {
+      "model": "iPhone 4",
+      "display_type": "3.5-inch Retina LCD",
+      "year": 2010,
+      "battery_type": "Built-in rechargeable lithium-ion"
+    },
+    {
+      "model": "iPhone 4S",
+      "display_type": "3.5-inch Retina LCD",
+      "year": 2011,
+      "battery_type": "Built-in rechargeable lithium-ion"
+    },
+    {
+      "model": "iPhone 5",
+      "display_type": "4-inch Retina LCD",
+      "year": 2012,
+      "battery_type": "Built-in rechargeable lithium-ion"
+    },
+    {
+      "model": "iPhone 5C",
+      "display_type": "4-inch Retina LCD",
+      "year": 2013,
+      "battery_type": "Built-in rechargeable lithium-ion"
+    },
+    {
+      "model": "iPhone 5S",
+      "display_type": "4-inch Retina LCD",
+      "year": 2013,
+      "battery_type": "Built-in rechargeable lithium-ion"
+    },
+    {
+      "model": "iPhone 6",
+      "display_type": "4.7-inch Retina HD LCD",
+      "year": 2014,
+      "battery_type": "Built-in rechargeable lithium-ion"
+    },
+    {
+      "model": "iPhone 6 Plus",
+      "display_type": "5.5-inch Retina HD LCD",
+      "year": 2014,
+      "battery_type": "Built-in rechargeable lithium-ion"
+    },
+    {
+      "model": "iPhone 6S",
+      "display_type": "4.7-inch Retina HD LCD",
+      "year": 2015,
+      "battery_type": "Built-in rechargeable lithium-ion"
+    },
+    {
+      "model": "iPhone 6S Plus",
+      "display_type": "5.5-inch Retina HD LCD",
+      "year": 2015,
+      "battery_type": "Built-in rechargeable lithium-ion"
+    },
+    {
+      "model": "iPhone SE (1st generation)",
+      "display_type": "4-inch Retina LCD",
+      "year": 2016,
+      "battery_type": "Built-in rechargeable lithium-ion"
+    },
+    {
+      "model": "iPhone 7",
+      "display_type": "4.7-inch Retina HD LCD",
+      "year": 2016,
+      "battery_type": "Built-in rechargeable lithium-ion"
+    },
+    {
+      "model": "iPhone 7 Plus",
+      "display_type": "5.5-inch Retina HD LCD",
+      "year": 2016,
+      "battery_type": "Built-in rechargeable lithium-ion"
+    },
+    {
+      "model": "iPhone 8",
+      "display_type": "4.7-inch Retina HD LCD",
+      "year": 2017,
+      "battery_type": "Built-in rechargeable lithium-ion"
+    },
+    {
+      "model": "iPhone 8 Plus",
+      "display_type": "5.5-inch Retina HD LCD",
+      "year": 2017,
+      "battery_type": "Built-in rechargeable lithium-ion"
+    },
+    {
+      "model": "iPhone X",
+      "display_type": "5.8-inch Super Retina OLED",
+      "year": 2017,
+      "battery_type": "Built-in rechargeable lithium-ion"
+    },
+    {
+      "model": "iPhone XR",
+      "display_type": "6.1-inch Liquid Retina LCD",
+      "year": 2018,
+      "battery_type": "Built-in rechargeable lithium-ion"
+    },
+    {
+      "model": "iPhone XS",
+      "display_type": "5.8-inch Super Retina OLED",
+      "year": 2018,
+      "battery_type": "Built-in rechargeable lithium-ion"
+    },
+    {
+      "model": "iPhone XS Max",
+      "display_type": "6.5-inch Super Retina OLED",
+      "year": 2018,
+      "battery_type": "Built-in rechargeable lithium-ion"
+    },
+    {
+      "model": "iPhone 11",
+      "display_type": "6.1-inch Liquid Retina LCD",
+      "year": 2019,
+      "battery_type": "Built-in rechargeable lithium-ion"
+    },
+    {
+      "model": "iPhone 11 Pro",
+      "display_type": "5.8-inch Super Retina XDR OLED",
+      "year": 2019,
+      "battery_type": "Built-in rechargeable lithium-ion"
+    },
+    {
+      "model": "iPhone 11 Pro Max",
+      "display_type": "6.5-inch Super Retina XDR OLED",
+      "year": 2019,
+      "battery_type": "Built-in rechargeable lithium-ion"
+    },
+    {
+      "model": "iPhone SE (2nd generation)",
+      "display_type": "4.7-inch Retina HD LCD",
+      "year": 2020,
+      "battery_type": "Built-in rechargeable lithium-ion"
+    },
+    {
+      "Model": "iPhone 12",
+      "Display Type": "Super Retina XDR OLED",
+      "Year": 2020,
+      "Battery Type": "Built-in rechargeable lithium-ion battery"
+    },
+    {
+      "Model": "iPhone 12 Mini",
+      "Display Type": "Super Retina XDR OLED",
+      "Year": 2020,
+      "Battery Type": "Built-in rechargeable lithium-ion battery"
+    },
+    {
+      "Model": "iPhone 12 Pro",
+      "Display Type": "Super Retina XDR OLED",
+      "Year": 2020,
+      "Battery Type": "Built-in rechargeable lithium-ion battery"
+    },
+    {
+      "Model": "iPhone 12 Pro Max",
+      "Display Type": "Super Retina XDR OLED",
+      "Year": 2020,
+      "Battery Type": "Built-in rechargeable lithium-ion battery"
+    }
+  ]
+}
