@@ -1,178 +1,336 @@
 {
-    "iPhone": [
-      {
-        "model": "iPhone",
-        "display": "3.5-inch LCD",
-        "year": 2007,
-        "battery": "Built-in rechargeable lithium-ion"
-      },
-      {
-        "model": "iPhone 3G",
-        "display": "3.5-inch LCD",
-        "year": 2008,
-        "battery": "Built-in rechargeable lithium-ion"
-      },
-      {
-        "model": "iPhone 3GS",
-        "display": "3.5-inch LCD",
-        "year": 2009,
-        "battery": "Built-in rechargeable lithium-ion"
-      },
-      {
-        "model": "iPhone 4",
-        "display": "3.5-inch Retina LCD",
-        "year": 2010,
-        "battery": "Built-in rechargeable lithium-ion"
-      },
-      {
-        "model": "iPhone 4S",
-        "display": "3.5-inch Retina LCD",
-        "year": 2011,
-        "battery": "Built-in rechargeable lithium-ion"
-      },
-      {
-        "model": "iPhone 5",
-        "display": "4-inch Retina LCD",
-        "year": 2012,
-        "battery": "Built-in rechargeable lithium-ion"
-      },
-      {
-        "model": "iPhone 5C",
-        "display": "4-inch Retina LCD",
-        "year": 2013,
-        "battery": "Built-in rechargeable lithium-ion"
-      },
-      {
-        "model": "iPhone 5S",
-        "display": "4-inch Retina LCD",
-        "year": 2013,
-        "battery": "Built-in rechargeable lithium-ion"
-      },
-      {
-        "model": "iPhone 6",
-        "display": "4.7-inch Retina HD LCD",
-        "year": 2014,
-        "battery": "Built-in rechargeable lithium-ion"
-      },
-      {
-        "model": "iPhone 6 Plus",
-        "display": "5.5-inch Retina HD LCD",
-        "year": 2014,
-        "battery": "Built-in rechargeable lithium-ion"
-      },
-      {
-        "model": "iPhone 6S",
-        "display": "4.7-inch Retina HD LCD",
-        "year": 2015,
-        "battery": "Built-in rechargeable lithium-ion"
-      },
-      {
-        "model": "iPhone 6S Plus",
-        "display": "5.5-inch Retina HD LCD",
-        "year": 2015,
-        "battery": "Built-in rechargeable lithium-ion"
-      },
-      {
-        "model": "iPhone SE (1st generation)",
-        "display": "4-inch Retina LCD",
-        "year": 2016,
-        "battery": "Built-in rechargeable lithium-ion"
-      },
-      {
-        "model": "iPhone 7",
-        "display": "4.7-inch Retina HD LCD",
-        "year": 2016,
-        "battery": "Built-in rechargeable lithium-ion"
-      },
-      {
-        "model": "iPhone 7 Plus",
-        "display": "5.5-inch Retina HD LCD",
-        "year": 2016,
-        "battery": "Built-in rechargeable lithium-ion"
-      },
-      {
-        "model": "iPhone 8",
-        "display": "4.7-inch Retina HD LCD",
-        "year": 2017,
-        "battery": "Built-in rechargeable lithium-ion"
-      },
-      {
-        "model": "iPhone 8 Plus",
-        "display": "5.5-inch Retina HD LCD",
-        "year": 2017,
-        "battery": "Built-in rechargeable lithium-ion"
-      },
-      {
-        "model": "iPhone X",
-        "display": "5.8-inch Super Retina OLED",
-        "year": 2017,
-        "battery": "Built-in rechargeable lithium-ion"
-      },
-      {
-        "model": "iPhone XR",
-        "display": "6.1-inch Liquid Retina LCD",
-        "year": 2018,
-        "battery": "Built-in rechargeable lithium-ion"
-      },
-      {
-        "model": "iPhone XS",
-        "display": "5.8-inch Super Retina OLED",
-        "year": 2018,
-        "battery": "Built-in rechargeable lithium-ion"
-      },
-      {
-        "model": "iPhone XS Max",
-        "display": "6.5-inch Super Retina OLED",
-        "year": 2018,
-        "battery": "Built-in rechargeable lithium-ion"
-      },
-      {
-        "model": "iPhone 11",
-        "display": "6.1-inch Liquid Retina LCD",
-        "year": 2019,
-        "battery": "Built-in rechargeable lithium-ion"
-      },
-      {
-        "model": "iPhone 11 Pro",
-        "display": "5.8-inch Super Retina XDR OLED",
-        "year": 2019,
-        "battery": "Built-in rechargeable lithium-ion"
-      },
-      {
-        "model": "iPhone 11 Pro Max",
-        "display": "6.5-inch Super Retina XDR OLED",
-        "year": 2019,
-        "battery": "Built-in rechargeable lithium-ion"
-      },
-      {
-        "model": "iPhone SE (2nd generation)",
-        "display": "4.7-inch Retina HD LCD",
-        "year": 2020,
-        "battery": "Built-in rechargeable lithium-ion"
-      },
-      {
-        "model": "iPhone 12",
-        "display": "Super Retina XDR OLED",
-        "year": 2020,
-        "battery": "Built-in rechargeable lithium-ion battery"
-      },
-      {
-        "model": "iPhone 12 Mini",
-        "display": "Super Retina XDR OLED",
-        "year": 2020,
-        "battery": "Built-in rechargeable lithium-ion battery"
-      },
-      {
-        "model": "iPhone 12 Pro",
-        "display": "Super Retina XDR OLED",
-        "year": 2020,
-        "battery": "Built-in rechargeable lithium-ion battery"
-      },
-      {
-        "model": "iPhone 12 Pro Max",
-        "display": "Super Retina XDR OLED",
-        "year": 2020,
-        "battery": "Built-in rechargeable lithium-ion battery"
-      }
+    "phones": [
+        {
+            "model": "iPhone",
+            "display": "3.5-inch LCD",
+            "year": 2007,
+            "battery": "Built-in rechargeable lithium-ion"
+        },
+        {
+            "model": "iPhone 3G",
+            "display": "3.5-inch LCD",
+            "year": 2008,
+            "battery": "Built-in rechargeable lithium-ion"
+        },
+        {
+            "model": "iPhone 3GS",
+            "display": "3.5-inch LCD",
+            "year": 2009,
+            "battery": "Built-in rechargeable lithium-ion"
+        },
+        {
+            "model": "iPhone 4",
+            "display": "3.5-inch Retina LCD",
+            "year": 2010,
+            "battery": "Built-in rechargeable lithium-ion"
+        },
+        {
+            "model": "iPhone 4S",
+            "display": "3.5-inch Retina LCD",
+            "year": 2011,
+            "battery": "Built-in rechargeable lithium-ion"
+        },
+        {
+            "model": "iPhone 5",
+            "display": "4-inch Retina LCD",
+            "year": 2012,
+            "battery": "Built-in rechargeable lithium-ion"
+        },
+        {
+            "model": "iPhone 5C",
+            "display": "4-inch Retina LCD",
+            "year": 2013,
+            "battery": "Built-in rechargeable lithium-ion"
+        },
+        {
+            "model": "iPhone 5S",
+            "display": "4-inch Retina LCD",
+            "year": 2013,
+            "battery": "Built-in rechargeable lithium-ion"
+        },
+        {
+            "model": "iPhone 6",
+            "display": "4.7-inch Retina HD LCD",
+            "year": 2014,
+            "battery": "Built-in rechargeable lithium-ion"
+        },
+        {
+            "model": "iPhone 6 Plus",
+            "display": "5.5-inch Retina HD LCD",
+            "year": 2014,
+            "battery": "Built-in rechargeable lithium-ion"
+        },
+        {
+            "model": "iPhone 6S",
+            "display": "4.7-inch Retina HD LCD",
+            "year": 2015,
+            "battery": "Built-in rechargeable lithium-ion"
+        },
+        {
+            "model": "iPhone 6S Plus",
+            "display": "5.5-inch Retina HD LCD",
+            "year": 2015,
+            "battery": "Built-in rechargeable lithium-ion"
+        },
+        {
+            "model": "iPhone SE (1st generation)",
+            "display": "4-inch Retina LCD",
+            "year": 2016,
+            "battery": "Built-in rechargeable lithium-ion"
+        },
+        {
+            "model": "iPhone 7",
+            "display": "4.7-inch Retina HD LCD",
+            "year": 2016,
+            "battery": "Built-in rechargeable lithium-ion"
+        },
+        {
+            "model": "iPhone 7 Plus",
+            "display": "5.5-inch Retina HD LCD",
+            "year": 2016,
+            "battery": "Built-in rechargeable lithium-ion"
+        },
+        {
+            "model": "iPhone 8",
+            "display": "4.7-inch Retina HD LCD",
+            "year": 2017,
+            "battery": "Built-in rechargeable lithium-ion"
+        },
+        {
+            "model": "iPhone 8 Plus",
+            "display": "5.5-inch Retina HD LCD",
+            "year": 2017,
+            "battery": "Built-in rechargeable lithium-ion"
+        },
+        {
+            "model": "iPhone X",
+            "display": "5.8-inch Super Retina OLED",
+            "year": 2017,
+            "battery": "Built-in rechargeable lithium-ion"
+        },
+        {
+            "model": "iPhone XR",
+            "display": "6.1-inch Liquid Retina LCD",
+            "year": 2018,
+            "battery": "Built-in rechargeable lithium-ion"
+        },
+        {
+            "model": "iPhone XS",
+            "display": "5.8-inch Super Retina OLED",
+            "year": 2018,
+            "battery": "Built-in rechargeable lithium-ion"
+        },
+        {
+            "model": "iPhone XS Max",
+            "display": "6.5-inch Super Retina OLED",
+            "year": 2018,
+            "battery": "Built-in rechargeable lithium-ion"
+        },
+        {
+            "model": "iPhone 11",
+            "display": "6.1-inch Liquid Retina LCD",
+            "year": 2019,
+            "battery": "Built-in rechargeable lithium-ion"
+        },
+        {
+            "model": "iPhone 11 Pro",
+            "display": "5.8-inch Super Retina XDR OLED",
+            "year": 2019,
+            "battery": "Built-in rechargeable lithium-ion"
+        },
+        {
+            "model": "iPhone 11 Pro Max",
+            "display": "6.5-inch Super Retina XDR OLED",
+            "year": 2019,
+            "battery": "Built-in rechargeable lithium-ion"
+        },
+        {
+            "model": "iPhone SE (2nd generation)",
+            "display": "4.7-inch Retina HD LCD",
+            "year": 2020,
+            "battery": "Built-in rechargeable lithium-ion"
+        },
+        {
+            "model": "iPhone 12",
+            "display": "Super Retina XDR OLED",
+            "year": 2020,
+            "battery": "Built-in rechargeable lithium-ion battery"
+        },
+        {
+            "model": "iPhone 12 Mini",
+            "display": "Super Retina XDR OLED",
+            "year": 2020,
+            "battery": "Built-in rechargeable lithium-ion battery"
+        },
+        {
+            "model": "iPhone 12 Pro",
+            "display": "Super Retina XDR OLED",
+            "year": 2020,
+            "battery": "Built-in rechargeable lithium-ion battery"
+        },
+        {
+            "model": "iPhone 12 Pro Max",
+            "display": "Super Retina XDR OLED",
+            "year": 2020,
+            "battery": "Built-in rechargeable lithium-ion battery"
+        }
+    ],
+    "laptops": [
+        {
+            "model": "MacBook Air (Late 2008)",
+            "display": "LCD",
+            "year": 2008,
+            "battery": "Lithium Polymer"
+        },
+        {
+            "model": "MacBook Pro (Unibody, Late 2008)",
+            "display": "LCD",
+            "year": 2008,
+            "battery": "Lithium Polymer"
+        },
+        {
+            "model": "MacBook Air (Mid 2009)",
+            "display": "LCD",
+            "year": 2009,
+            "battery": "Lithium Polymer"
+        },
+        {
+            "model": "MacBook Pro (Mid 2009)",
+            "display": "LCD",
+            "year": 2009,
+            "battery": "Lithium Polymer"
+        },
+        {
+            "model": "MacBook (Late 2009)",
+            "display": "LCD",
+            "year": 2009,
+            "battery": "Lithium Polymer"
+        },
+        {
+            "model": "MacBook Air (Late 2010)",
+            "display": "LCD",
+            "year": 2010,
+            "battery": "Lithium Polymer"
+        },
+        {
+            "model": "MacBook Pro (Early 2011)",
+            "display": "LCD",
+            "year": 2011,
+            "battery": "Lithium Polymer"
+        },
+        {
+            "model": "MacBook Pro with Retina Display (Mid 2012)",
+            "display": "Retina LCD",
+            "year": 2012,
+            "battery": "Lithium Polymer"
+        },
+        {
+            "model": "MacBook Air (Mid 2012)",
+            "display": "LCD",
+            "year": 2012,
+            "battery": "Lithium Polymer"
+        },
+        {
+            "model": "MacBook Pro (Late 2013)",
+            "display": "Retina LCD",
+            "year": 2013,
+            "battery": "Lithium Polymer"
+        },
+        {
+            "model": "MacBook Air (Early 2014)",
+            "display": "LCD",
+            "year": 2014,
+            "battery": "Lithium Polymer"
+        },
+        {
+            "model": "MacBook (Early 2015)",
+            "display": "Retina LCD",
+            "year": 2015,
+            "battery": "Lithium Polymer"
+        },
+        {
+            "model": "MacBook Pro (Early 2015)",
+            "display": "Retina LCD",
+            "year": 2015,
+            "battery": "Lithium Polymer"
+        },
+        {
+            "model": "MacBook Air (Early 2015)",
+            "display": "LCD",
+            "year": 2015,
+            "battery": "Lithium Polymer"
+        },
+        {
+            "model": "MacBook Pro with Touch Bar (Late 2016)",
+            "display": "Retina LCD",
+            "year": 2016,
+            "battery": "Lithium Polymer"
+        },
+        {
+            "model": "MacBook (12-inch, 2016)",
+            "display": "Retina IPS LCD",
+            "year": 2016,
+            "battery": "Lithium Polymer"
+        },
+        {
+            "model": "MacBook Pro (13-inch, 2016, Two Thunderbolt 3 ports)",
+            "display": "Retina IPS LCD",
+            "year": 2016,
+            "battery": "Lithium Polymer"
+        },
+        {
+            "model": "MacBook Pro (13-inch, 2016, Four Thunderbolt 3 ports)",
+            "display": "Retina IPS LCD",
+            "year": 2016,
+            "battery": "Lithium Polymer"
+        },
+        {
+            "model": "MacBook Pro (15-inch, 2016)",
+            "display": "Retina IPS LCD",
+            "year": 2016,
+            "battery": "Lithium Polymer"
+        },
+        {
+            "model": "MacBook (12-inch, 2017)",
+            "display": "Retina IPS LCD",
+            "year": 2017,
+            "battery": "Lithium Polymer"
+        },
+        {
+            "model": "MacBook Pro (13-inch, 2017, Two Thunderbolt 3 ports)",
+            "display": "Retina IPS LCD",
+            "year": 2017,
+            "battery": "Lithium Polymer"
+        },
+        {
+            "model": "MacBook Pro (13-inch, 2017, Four Thunderbolt 3 ports)",
+            "display": "Retina IPS LCD",
+            "year": 2017,
+            "battery": "Lithium Polymer"
+        },
+        {
+            "model": "MacBook Pro (15-inch, 2017)",
+            "display": "Retina IPS LCD",
+            "year": 2017,
+            "battery": "Lithium Polymer"
+        },
+        {
+            "model": "MacBook Air (13-inch, 2018)",
+            "display": "Retina IPS LCD",
+            "year": 2018,
+            "battery": "Lithium Polymer"
+        },
+        {
+            "model": "MacBook Pro (13-inch, 2018, Four Thunderbolt 3 ports)",
+            "display": "Retina IPS LCD",
+            "year": 2018,
+            "battery": "Lithium Polymer"
+        },
+        {
+            "model": "MacBook Pro (15-inch, 2018)",
+            "display": "Retina IPS LCD",
+            "year": 2018,
+            "battery": "Lithium Polymer"
+        }
     ]
-  }
+}
